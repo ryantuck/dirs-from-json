@@ -1,0 +1,23 @@
+{
+    "job-a": {
+        "data": {
+            "job-a": [
+            "a-part-1",
+            "a-part-2"
+            ]
+        },
+        "log": "jobA-log"
+    },
+    "job-b": {
+        "log": "job-b-logs"
+    },
+    "job-c": {
+    },
+    "job-d": [
+        {
+            "etc": "d-files"
+        },
+        "log"
+    ]
+
+}
